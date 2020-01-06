@@ -1,0 +1,28 @@
+body {
+    background-image: url(images/background-photo.jpg);
+    background-position: center center;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #ffffff;
+    font-family: arial, sans-serif;
+    font-size: 85%;
+    color: #ffffff;
+}
+
+#wrap {
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    width: 450px;
+    height: 260px;
+}
+
+table {
+    margin-right: auto;
+    margin-left: auto;
+}
