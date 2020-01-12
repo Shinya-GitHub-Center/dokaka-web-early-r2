@@ -22,9 +22,9 @@ body {
   height: 260px;
 }
 
-table {
-  margin-right: auto;
-  margin-left: auto;
+.linkimg {
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .mb1 {
