@@ -1,3 +1,5 @@
+# This repository is out of date. Current active repository is moved to [Here](https://github.com/Dukka-De-La-Dokka/dokaka-web-late-r3).
+
 Repository Name
 ======
 dokaka-web-early-r2
