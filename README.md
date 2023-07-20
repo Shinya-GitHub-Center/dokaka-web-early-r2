@@ -1,4 +1,4 @@
-# This repository is out of date. Current active repository is moved to [Here](https://github.com/Dukka-De-La-Dokka/dokaka-web-late-r3).
+# This repository is out of date. Current active repository is moved to [Here](https://github.com/Shinya-GitHub-Center/dokaka-web-late-r3).
 
 Repository Name
 ======
